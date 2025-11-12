@@ -9,7 +9,7 @@
 |:---:|:---:|:---:|
 | [Week 1](./week01/) | 2025-10-20 ~ 2025-10-24 | ✅ |
 | [Week 2](./week02/) | 2025-10-27 ~ 2025-10-29  | ✅ |
-| [Week 3](./week03/) | 2025-11-03 ~ 2025-11-07 | - |
+| [Week 3](./week03/) | 2025-11-04 ~ 2025-11-07 | ✅ |
 | [Week 4](./week04/) | 2025-11-10 ~ 2025-11-14 | - |
 | [Week 5](./week05/) | 2025-11-17 ~ 2025-11-21 | - |
 | [Week 6](./week06/) | 2025-11-24 ~ 2025-11-28 | - |
@@ -26,3 +26,6 @@
 - [Software_Engineering](./week02/day01_Software_Engineering.md)
 - [OS](./week02/day02_OS.md)
 - [Network](./week02/day03_Network.md)
+
+### 3주차
+- [Security](./week03/day01_Secure.md)

@@ -4,6 +4,7 @@ Thumbs.db
 
 # Editor
 .vscode/
+*/.vscode/
 .idea/
 *.swp
 *.swo
@@ -15,4 +16,5 @@ node_modules/
 # 개인 메모 (공유하고 싶지 않은 내용)
 **/private/
 **/*-private.md
+
 
